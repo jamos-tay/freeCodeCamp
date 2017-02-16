@@ -233,7 +233,7 @@
         "<code>console.log(set.foo) // true</code>",
         "In the next few exercises, we will build a full featured Set from scratch.",
         "In this exercise you will add a function to add a value to our set collection:",
-        "<code>this.add = function(){</code>",
+        "<code>this.add = function(element){</code>",
         "<code>  //some code to add value to the set</code>",
         "<code>}</code>"
       ],
